@@ -1,0 +1,15 @@
+#Data
+/data
+
+#Junk Files
+.DS_Store
+.ipynb_checkpoints
+
+#Images
+/images
+
+#Reports
+/reports
+
+#Notebooks
+/notebooks
